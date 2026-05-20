@@ -2,7 +2,7 @@
 
 Construo ferramentas com Python que cortam horas de trabalho operacional. Foco em automação, IA generativa e integração de sistemas.
 
-Estudante de Ciência da Computação (1º semestre, bolsa integral) e atuando como Suporte Técnico & Automação em um ISP, onde construo as ferramentas que uso.
+Estudante de Ciência da Computação (bolsa integral, 1º lugar) e atuando como Suporte Técnico & Automação em um ISP, onde construo as ferramentas que uso.
 
 ### Projetos em destaque
 
