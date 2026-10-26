@@ -1,6 +1,6 @@
 ## Cléber Maia
 
-Construo ferramentas com Python que cortam horas de trabalho operacional. Foco em automação, IA generativa e integração de sistemas.
+Construo ferramentas com Python que substituem horas de trabalho operacional. Foco em automação, IA generativa e integração de sistemas.
 
 Estudante de Ciência da Computação (bolsa integral, 1º lugar) e atuando como Suporte Técnico & Automação em um ISP, onde construo as ferramentas que uso.
 
